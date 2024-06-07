@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<div align="center">
+	<img src="https://tenor.com/view/america-ya-gif-15374592095658975433" alt="welcome to my github profile">
+	<br>
+	<br>
+</div>
+
 <!--
 **ardhendusgit/ardhendusgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
