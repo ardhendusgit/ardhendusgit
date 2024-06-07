@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-	<img src="https://tenor.com/view/america-ya-gif-15374592095658975433" alt="welcome to my github profile">
+	<img src="https://tenor.com/view/america-ya-gif-15374592095658975433.gif" alt="welcome to my github profile">
 	<br>
 	<br>
 </div>
